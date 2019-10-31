@@ -1,0 +1,109 @@
+body {
+	padding: 30px 30px 30px 30px;
+}
+.logo {
+	width: 100px;
+	display: inline-block;
+    vertical-align: middle;
+ }
+.navigacia {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 50px;
+	
+}
+
+.navigacia-li {
+	font-family: 'BPG Nino Mtavruli Bold';
+	display: inline-block;
+	font-size: 22px;
+	color:#3D58A6;
+	font-weight: bold;
+	margin: 15px;
+}
+.active {
+	color: #EE4036;
+}
+.comp {
+	margin-top: 25px;
+}
+h4 {
+	font-family: 'Roboto-Regular';
+	font-size: 24px;
+	color: black;
+	margin-top: 100px;
+}
+section {
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+.box {
+	display: inline-block;
+	vertical-align: middle;
+	background-color: #DEDEE2;
+	width: 570px;
+	height: 225px;
+	margin-right: 30px;
+}
+.title {
+	font-family: 'Roboto-Regular';
+	color: #3D58A6;
+	font-size: 22px;
+	
+
+}
+.poto {
+	display: inline-block;
+	vertical-align: middle;
+	width: 95px;
+}
+.text {
+	font-family: 'Roboto-Regular';
+	font-size: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	width: 350px;
+
+}
+.a {
+	margin: 15px 0px 12px 50px;
+}
+.b {
+	margin: 0px 60px 40px 40px;
+}
+.c {
+	margin-bottom: 50px;
+}
+.d {
+	margin: 15px 0px 15px 15px;
+}
+.e {
+	margin: 0px 50px 0px 50px;
+}
+.f {
+	margin-bottom: 50px;
+}
+
+.folist {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 30px;
+}
+.fologo {
+	height: 30px;
+}
+/*.index3 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-left: 30px;
+}
+.poni {
+	background-color: #DEDEE2;
+}*/
+h5 {
+	font-family: 'BPG Nino Mtavruli Bold';
+	color: #3D58A6;
+	font-size: 20px;
+	font-weight: bold;
+}

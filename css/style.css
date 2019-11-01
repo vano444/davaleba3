@@ -1,4 +1,4 @@
-body {
+.index {
 	padding: 30px 30px 30px 30px;
 }
 .logo {
@@ -32,8 +32,9 @@ h4 {
 	font-size: 24px;
 	color: black;
 	margin-top: 100px;
+	font-weight: bold;
 }
-section {
+.section {
 	margin-top: 30px;
 	margin-bottom: 40px;
 }
@@ -67,7 +68,7 @@ section {
 
 }
 .a {
-	margin: 15px 0px 12px 50px;
+	margin: 15px 0px 12px 15px;
 }
 .b {
 	margin: 0px 60px 40px 40px;
@@ -93,17 +94,56 @@ section {
 .fologo {
 	height: 30px;
 }
-/*.index3 {
+.index3 {
 	margin-top: 30px;
 	margin-bottom: 30px;
-	padding-left: 30px;
+	margin-left: 30px;
+
 }
-.poni {
-	background-color: #DEDEE2;
-}*/
+.background {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-color: #E6E6E6;
+	/*height: 500px;*/
+}
+.gh {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
 h5 {
 	font-family: 'BPG Nino Mtavruli Bold';
 	color: #3D58A6;
 	font-size: 20px;
 	font-weight: bold;
+}
+.contact {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 30px;
+	padding-top: 15px;
+}
+.contact-li {
+    font-family: 'BPG Ingiri Arial';
+    font-size: 16px;
+    color: #000000;
+    font-weight: bold;
+}
+.contact-span {
+	
+	color: #808080;
+}
+.mapouter {
+	display: inline-block;
+	vertical-align: middle;
+	position:relative;
+	text-align:right;
+	height:420px;
+	width:770px;
+}
+.gmap_canvas {
+	overflow:hidden;
+	background:none!important;
+	margin-left: 90px;
+	height:420px;
+	width:770px;
 }
